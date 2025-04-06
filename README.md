@@ -3,7 +3,7 @@
 
 ## 1. R-CNN (Mask R-CNN Analysis)
 
-For this task, I utilized the pre-trained **Mask R-CNN** model with a **ResNet-50** backbone from PyTorch, as provided in `a4_PyTorch_Mask_RCNN_article.py` and `a4_PyTorch_Mask_RCNN_images.py`. The setup involved creating a `my_images` directory with `example.jpg` and five additional images I selected:
+For this task, I utilized the pre-trained **Mask R-CNN** model with a **ResNet-50** backbone from PyTorch, as provided in `a4_PyTorch_Mask_RCNN_images.py`. The setup involved creating a `my_images` directory with `example.jpg` and five additional images I selected:
 
 - A living room scene
 - A pet (dog)
